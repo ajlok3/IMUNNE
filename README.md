@@ -6,3 +6,8 @@ This repository contains the implementation of IMUNNE, a novel implicit training
 IMUNNE (IMplicit UNrolled NEtwork) is designed to address the computational and memory limitations of traditional unrolled networks while maintaining high performance in dynamic cardiac MRI reconstruction. By leveraging implicit network theory and Jacobian-free backpropagation, IMUNNE reduces GPU memory requirements and training times significantly.
 
 This implementation accompanies the paper "Computationally Efficient Implicit Training Strategy for Unrolled Networks: A Preliminary Analysis Using Accelerated Real-Time Cardiac Cine MRI", published in IEEE Transactions on Biomedical Engineering.
+
+Note: This is a preliminary version of the codebase. A fully functional release is currently in development and will be available under the tag v0.1.
+
+TODO:
+- write tests
